@@ -1,0 +1,36 @@
+#card-header {
+    color: aliceblue;
+}
+
+.text-biru {
+    color: #4fc2f8;
+}
+
+.gambar-kecil{
+    width: 150px;
+}
+.background-putih{
+    background-color: #ffffff;
+}
+
+.card-padding{
+    padding: 50px 10px 30px 10px;
+}
+
+.btn-biru{
+    background-color: #4fc2f8;
+}
+
+
+.text-footer{
+    text-transform: uppercase;
+    font-weight: 400;  
+}
+
+#navigation-link:hover{
+    color: #0f5f85;
+}
+
+#submit-button:hover{
+    background-color: #0f5f85;
+}
